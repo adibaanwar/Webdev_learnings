@@ -57,7 +57,7 @@ nav{
   top: 0;
   right: -250px; /* hidden initially */
   width: 250px;
-  height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
