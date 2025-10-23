@@ -134,8 +134,8 @@ filter: brightness(0) saturate(100%) invert(61%) sepia(38%) saturate(1655%) hue-
 }
 
 .home h2{
-    font-size: 2.5 rem;
-    margin-bottom: 1 rem;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
     color: rgb(240, 140, 9);
     text-shadow: 2px 2px 4px white;
 }
@@ -197,7 +197,7 @@ filter: brightness(0) saturate(100%) invert(61%) sepia(38%) saturate(1655%) hue-
     text-align: center;
 }
 .about h3{
-    font-size: 1.5 rem;
+    font-size: 1.5rem;
     color:rgb(188, 134, 64);
     margin-bottom: 1rem;
     text-align: center;
@@ -472,7 +472,7 @@ html {
      grid-template-columns: repeat(2, 1fr);
     }
     
-   .header{
+   header{
     padding: 1.5rem 2rem; 
    }
    .home{
